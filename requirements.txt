@@ -1,0 +1,13 @@
+pip~=24.2
+wheel~=0.44.0
+setuptools~=72.2.0
+packaging~=24.1
+zipp~=3.19.2
+Django==4.2
+djangorestframework==3.14
+python-dotenv==1.0.0
+django-cors-headers==4.0
+celery==5.2
+djangorestframework
+django_celery_beat
+psycopg2-binary
